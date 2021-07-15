@@ -4,8 +4,8 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
 
 <div style="display:flex;flex-direction:row;justify-content:space-between;">
   <img src="https://img.shields.io/badge/Discord-AutiOne%236777-%235865F2?logo=discord&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Element-@autione:matrix.org-%2300C98C?logo=element&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keybase-autione-%2333A0FF?logo=keybase&style=for-the-badge&logoColor=white" />
+  <a href="https://matrix.to/#/@autione:matrix.org"><img src="https://img.shields.io/badge/Element-@autione:matrix.org-%2300C98C?logo=element&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://keybase.io/autione"><img src="https://img.shields.io/badge/Keybase-autione-%2333A0FF?logo=keybase&style=for-the-badge&logoColor=white" /></a>
 </div>
 <hr/>
 
