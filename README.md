@@ -10,7 +10,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
 <hr/>
 
 **📚 Languages:**
-_Best viewed in light mode_
+<img src="https://raw.githubusercontent.com/autione/autione/main/dark-mode-notice.svg" />
 <table>
   <tr>
     <th>Front-end</th>
@@ -98,6 +98,117 @@ _Best viewed in light mode_
     <td></td>
   </tr>
 </table>
+<i>If you realised there are some langs missing on the table above, it's because I'm not good enough on those to put them in there.</i>
+<table>
+  <tr>
+    <th>Experience Level</th>
+    <th>Front-end</th>
+    <th>Back-end</th>
+    <th>Mobile</th>
+    <th>General purpose</th>
+  </tr>
+  <tr>
+    <td>Amazing</td>
+    <td align="center">
+      <a href="https://reactjs.org/" title="ReactJS ⚛">
+        <img src="https://simpleicons.org/icons/react.svg" width=24 />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5 🌐">
+        <img src="https://simpleicons.org/icons/html5.svg" width=24 />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3 🎨">
+        <img src="https://simpleicons.org/icons/css3.svg" width=24 />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/" title="Node.JS 💾">
+        <img src="https://simpleicons.org/icons/nodedotjs.svg" width=24 />
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript (NOT JAVA!) 🟨☕">
+        <img src="https://simpleicons.org/icons/javascript.svg" width=24 />
+      </a>
+      <a href="https://www.typescriptlang.org/" title="TypeScript 🟦⭐">
+        <img src="https://simpleicons.org/icons/typescript.svg" width=24 />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Experient</td>
+    <td align="center">
+      <a href="https://nextjs.org/" title="Next.js ⏭">
+        <img src="https://simpleicons.org/icons/nextdotjs.svg" width=24 />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://deno.land/" title="Deno 🦕">
+        <img src="https://simpleicons.org/icons/deno.svg" width=24 />
+      </a>
+      <a href="https://fastify.io/" title="Fastify 🏃">
+        <img src="https://simpleicons.org/icons/fastify.svg" width=24 />
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://www.lua.org/" title="Lua 🇧🇷🌕">
+        <img src="https://simpleicons.org/icons/lua.svg" width=24 />*
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Intermediate</td>
+    <td align="center">
+      <a href="https://electronjs.org/" title="ElectronJS 💻">
+        <img src="https://simpleicons.org/icons/electron.svg" width=24 />
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://expo.io/" title="Expo 🚀">
+        <img src="https://simpleicons.org/icons/expo.svg" width=24 />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://python.org/" title="Python 🐍">
+        <img src="https://simpleicons.org/icons/python.svg" width=24 />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Somewhat okay</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://reactnative.dev/" title="React Native 🧪">
+        <img src="https://simpleicons.org/icons/react.svg" width=24 />
+      </a>
+    </td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>ÆÆÆÆÆÆ</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">
+        <img src="https://simpleicons.org/icons/cplusplus.svg" width=24 />
+      </a>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
+        <img src="https://simpleicons.org/icons/csharp.svg" width=24 />
+      </a>
+      <a href="https://www.java.com/pt-BR/" title="Java">
+        <img src="https://simpleicons.org/icons/java.svg" width=24 />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Assembly_language" title="Assembly (yes, I tried once)">
+        <img src="https://raw.githubusercontent.com/autione/autione/main/shrug.svg" width=24 />
+      </a>
+    </td>
+  </tr>
+</table>
+<i>totally not copied from <a href="https://github.com/znepb">znepb</a>.</i>
 
 **😎 About me:**
 <ul>
