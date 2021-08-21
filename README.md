@@ -11,7 +11,6 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
 
 **📚 Languages:**
 
-<img src="https://raw.githubusercontent.com/autione/autione/main/dark-mode-notice.svg" />
 <table>
   <tr>
     <th>Front-end</th>
@@ -210,6 +209,8 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
   </tr>
 </table>
 <i>totally not copied from <a href="https://github.com/znepb">znepb</a>.</i>
+
+<img src="https://raw.githubusercontent.com/autione/autione/main/dark-mode-notice.svg" />
 
 **😎 About me:**
 <ul>
