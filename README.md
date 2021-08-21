@@ -10,6 +10,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
 <hr/>
 
 **📚 Languages:**
+_Best viewed in light mode_
 <table>
   <tr>
     <th>Front-end</th>
