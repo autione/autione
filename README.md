@@ -230,6 +230,9 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       <a href="https://www.mozilla.org/en-US/firefox/developer/" title="Firefox Developer Edition 🦊">
         <img src="https://simpleicons.org/icons/firefoxbrowser.svg" width=24 />
       </a>
+      <a href="https://www.aseprite.org/" title="Aseprite">
+        <img src="https://simpleicons.org/icons/aseprite.svg" width=24 />
+      </a>
     </div>
   </li>
 </ul>
