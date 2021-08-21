@@ -3,5 +3,15 @@
     "name": "LIT",
     "description": "LIT is a social network app (not decentralised 🙁), that is some kind of a mix of Twitter, Discord, Telegram or something. I'm planning to release it after Q4 2021.",
     "state": 0
+  },
+  {
+    "name": "AutiOne Website v2",
+    "description": "Not much to say. I just think it's gonna be somewhat cool.",
+    "state": 0
+  },
+  {
+    "name": "MCCalc",
+    "description": "Products calculator for my Minecraft SMP. It calculates an entire purchase because I'm too lazy to do all the sums, divisions and multiplications."
+    "state": 0
   }
 ]
