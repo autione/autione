@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Auti
-Also known as [AutiOne](https://auti.one) on the internet, and Davi in real life. I code and design stuff on my computer since my early nerdy days, and hope to make something useful eventually. You can use any pronouns with me, but I do prefer they/them! :)
+Also known as [AutiOne](https://auti.one) through my funky brand. I code and design stuff on my computer since my early nerdy days, and hope to make something useful eventually. You can use any pronouns with me, but I do prefer they/them! :)
 
 You can reach out to me through the links below:
 
