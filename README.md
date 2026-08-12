@@ -1,9 +1,21 @@
-## 👋 Hi, I'm Auti
+<div align="center">
+  <img src=".github/splash.png" alt="autione: code & design, non-binary teen, são paulo brazil" />
 
-Also known as [AutiOne](https://auti.one) through my funky brand. I code and design stuff on my computer since my early nerdy days, and hope to make something useful eventually. I use they/it pronouns. :)
+  <a href="https://auti.one/" target="_blank">
+    <img src=".github/button-1.png" alt="website">
+  </a>
+  <a href="https://discord.com/users/226484318959173632" target="_blank">
+    <img src=".github/button-2.png" alt="discord">
+  </a>
+  <a href="https://steamcommunity.com/id/AutiOne/" target="_blank">
+    <img src=".github/button-3.png" alt="steam">
+  </a>
+</div>
 
-You can reach out to me through the links below:
+---
 
-<a href="https://auti.one" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=auti.one&color=ff4f4f&style=for-the-badge" /></a>
-<a href="https://discord.com/users/226484318959173632" target="_blank"><img src="https://img.shields.io/static/v1?label=Discord&message=autione&color=5865f2&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://matrix.to/#/@autione:4d2.org" target="_blank"><img src="https://img.shields.io/static/v1?label=Matrix&message=%40autione%3A4d2.org&color=000000&style=for-the-badge&logo=matrix&logoColor=white" /></a>
+👋 heyo, welcome to my github profile!! this is where you'll find most of my programming portfolio, some of them in public repos for all to see.
+
+📄 you can visit my website for more information about me personally, or to check out my other work available elsewhere. if you want to get in touch, use the buttons above or send me an e-mail!
+
+🎨 this README was designed and written with real human effort, no AI :)
